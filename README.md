@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi I am Vinaya 👋
 
-<!--
-**Vinaya09/Vinaya09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm a student, innovator, coder and full-time adventure seeker.<br/>
+I'm currently a software developer passionate about creating innovative applications to solve the worlds greatest issues, designing accessable technology, and building community. Current status: working with @CityStudio to develop [TreeTrackers](https://treetrackers.ca/), an application to track and measure trees in order to help my community reach its carbon sequestering goals. 
+</br>
+</br>
+Some technologies I enjoy working with include: </br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on GeenieEats
+- 🌱 I’m currently learning Blockchain with Solidity 
+- 😐 I have a love/hate relationship with Programming
+- 💬 Ask me about any cooking show 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Huge traveller and adventure seeker.<br/>You can catch me biking, hiking, or swimming in my free time! 
+
