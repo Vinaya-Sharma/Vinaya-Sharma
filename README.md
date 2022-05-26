@@ -1,7 +1,7 @@
 ### Hi I am Vinaya 👋
 
 Welcome to my profile! I'm a student, innovator, coder and full-time adventure seeker.<br/>
-I'm currently a software developer passionate about creating innovative applications to solve the worlds greatest issues, designing accessable technology, and building community. Current status: working with @CityStudio to develop [TreeTrackers](https://treetrackers.ca/), an application to track and measure trees in order to help my community reach its carbon sequestering goals. 
+I'm currently a software developer passionate about creating innovative applications to solve the worlds greatest issues, designing accessable technology, and building community.<br/>Current status: working with @CityStudio to develop [TreeTrackers](https://treetrackers.ca/), an application to track and measure trees in order to help my community reach its carbon sequestering goals. 
 </br>
 </br>
 Some technologies I enjoy working with include: </br>
