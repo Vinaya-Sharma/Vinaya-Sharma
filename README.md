@@ -9,10 +9,10 @@ Some technologies I enjoy working with include: </br>
 
 
 
-- 🔭 I’m currently working on GeenieEats
-- 🌱 I’m currently learning Blockchain and Web 3 development
-- 😐 I have a love/hate relationship with Programming
+- 🔭 Going deep into ML specifically deep learning 
+- 🌱 Obsessed with Blockchain and Web 3 development
+- 👩‍💻 I have a love/hate relationship with Programming
 - 💬 Ask me about any cooking show on Netflix 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Huge traveller and adventure seeker.<br/>You can catch me biking, hiking, or swimming in my free time! 
+- 🧗 Fun fact: Huge traveller and adventure seeker.<br/>Favourite memory is going clif diving with the family and jumping off from 6m high! 
 
