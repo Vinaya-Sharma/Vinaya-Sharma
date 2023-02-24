@@ -14,5 +14,5 @@ Some technologies I enjoy working with include: </br>
 - 👩‍💻 I have a love/hate relationship with Programming
 - 💬 Ask me about any cooking show on Netflix 
 - 😄 Pronouns: She/Her
-- 🧗 Fun fact: Huge traveller and adventure seeker.<br/>Favourite memory is going clif diving with the family and jumping off from 6m high! 
+- 🧗 Fun fact: I've gone clif diving with my family and jumped off from 6m high! 
 
