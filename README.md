@@ -5,7 +5,7 @@ You can find me on [linkedln](https://www.linkedin.com/in/vinaya-sharma/) and [t
 
 #### Previously 
 <ul>
-  <li>Develop [TreeTrackers](https://treetrackers.ca/) @ CityStudio</li>
+  <li>Developer @ CityStudio</li>
   <li>Innovation developer @ RBC</li>
   <li>IOS Dev @ Our Wave Hub</li>
 </ul>
