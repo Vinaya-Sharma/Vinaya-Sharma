@@ -1,7 +1,7 @@
 ### Hi I am Vinaya 👋
 
-Welcome to my profile! I'm a student, innovator, coder and full-time adventure seeker.<br/><br/>
-I'm currently a software developer passionate about creating innovative applications to solve the worlds greatest issues, designing accessable technology, and building community.<br/><br/>
+You can find me on [linkedln](https://www.linkedin.com/in/vinaya-sharm) and [twitter](https://twitter.com/VinayaSharmaa)
+
 
 ## Previously 
 <ul>
