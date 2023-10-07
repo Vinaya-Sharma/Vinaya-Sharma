@@ -1,6 +1,6 @@
-### Hi I am Vinaya 👋
+### Hi I'm Vinaya 👋
 
-You can find me on [linkedln](https://www.linkedin.com/in/vinaya-sharm) and [twitter](https://twitter.com/VinayaSharmaa)
+You can find me on [linkedln](https://www.linkedin.com/in/vinaya-sharma/) and [twitter](https://twitter.com/VinayaSharmaa)
 </br>
 
 #### Previously 
