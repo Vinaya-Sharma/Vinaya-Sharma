@@ -1,20 +1,14 @@
 ### Hi I'm Vinaya 👋
 
-You can find me on [linkedln](https://www.linkedin.com/in/vinaya-sharma/) and [twitter](https://twitter.com/VinayaSharmaa)
+Find me on [Linkedln](https://www.linkedin.com/in/vinaya-sharma/) and [Twitter](https://twitter.com/VinayaSharmaa)
 </br>
 
-#### Previously 
-<ul>
-  <li>Developer @ CityStudio</li>
-  <li>Innovation developer @ RBC</li>
-  <li>IOS Dev @ Our Wave Hub</li>
-</ul>
+**About Me**
 
-#### About Me 
-- 🔭 Going deep into ML specifically deep learning 
-- 🌱 Obsessed with Blockchain and Web 3 development
-- 👩‍💻 I have a love/hate relationship with Programming
-- 💬 Ask me about any cooking show on Netflix 
-- 😄 Pronouns: She/Her
-- 🧗 Fun fact: I've gone clif diving with my family and jumped off from 6m high! 
+- 🔭 Computer Science student at Stanford University  
+- 🎨 Enjoy building and learning about/in AI, full stack, and design  
+- 🧱 Built tools across climate, health, consumer social, and personalized automation systems  
+- 👩‍💻 Currently a Technical Intern @ Scale AI  
+- 💼 Previously: Software Engineer @ Triage.AI, Innovation Developer @ RBC, iOS Dev @ Our Wave Hub  
+- 🏄‍♀️ Fun fact: I’m a certified WFR!  
 
